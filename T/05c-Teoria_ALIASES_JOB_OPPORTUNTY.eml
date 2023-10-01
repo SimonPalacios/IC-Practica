@@ -1,0 +1,105 @@
+Return-Path: <katejs2@sapo.pt>
+X-Original-To: nmacia@cert.unlp.edu.ar
+Delivered-To: nmacia@cert.unlp.edu.ar
+Received: by mail.cert.unlp.edu.ar (Postfix, from userid 112)
+	id 2129C282BD; Wed, 19 Sep 2018 10:00:34 -0300 (-03)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	mail.cert.unlp.edu.ar
+X-Spam-Level: 
+X-Spam-Status: No, score=0.1 required=6.0 tests=BAYES_00,FREEMAIL_FROM,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,SPF_HELO_PASS,SUBJ_ALL_CAPS,T_FREEMAIL_DOC_PDF,
+	UNWANTED_LANGUAGE_BODY shortcircuit=no autolearn=ham version=3.3.2
+Received: from ada.info.unlp.edu.ar (ada.info.unlp.edu.ar [163.10.5.66])
+	by mail.cert.unlp.edu.ar (Postfix) with ESMTPS id 2FD6628161
+	for <nmacia@cert.unlp.edu.ar>; Wed, 19 Sep 2018 10:00:28 -0300 (-03)
+Received: from localhost ([127.0.0.1])
+	by ada.info.unlp.edu.ar with esmtp (Exim 4.80)
+	(envelope-from <katejs2@sapo.pt>)
+	id 1g2c5j-00089J-Uv
+	for nmacia@ada.info.unlp.edu.ar; Wed, 19 Sep 2018 10:00:27 -0300
+X-Virus-Scanned: Debian amavisd-new at ada.info.unlp.edu.ar
+Received: from ada.info.unlp.edu.ar ([127.0.0.1])
+	by localhost (ada.info.unlp.edu.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nZJWD92N0JNd for <nmacia@ada.info.unlp.edu.ar>;
+	Wed, 19 Sep 2018 10:00:24 -0300 (-03)
+Received: from mail.linti.unlp.edu.ar ([163.10.10.61])
+	by ada.info.unlp.edu.ar with esmtps (TLS1.2:DHE_RSA_AES_128_CBC_SHA1:128)
+	(Exim 4.80)
+	(envelope-from <katejs2@sapo.pt>)
+	id 1g2c5g-00089C-42
+	for nmacia@ada.info.unlp.edu.ar; Wed, 19 Sep 2018 10:00:24 -0300
+Received: from localhost ([127.0.0.1])
+	by mail.linti.unlp.edu.ar with esmtp (Exim 4.80)
+	(envelope-from <katejs2@sapo.pt>)
+	id 1g2c6r-0004Hk-I0
+	for nmacia@linti.unlp.edu.ar; Wed, 19 Sep 2018 10:01:37 -0300
+X-Virus-Scanned: Debian amavisd-new at mail.linti.unlp.edu.ar
+Received: from mail.linti.unlp.edu.ar ([127.0.0.1])
+	by localhost (mail.linti.unlp.edu.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bS6QmJecy1wY for <nmacia@linti.unlp.edu.ar>;
+	Wed, 19 Sep 2018 10:01:31 -0300 (-03)
+Received: from relay3.ptmail.sapo.pt ([212.55.154.23])
+	by mail.linti.unlp.edu.ar with esmtps (TLS1.2:DHE_RSA_AES_256_CBC_SHA256:256)
+	(Exim 4.80)
+	(envelope-from <katejs2@sapo.pt>)
+	id 1g2c6k-0004HN-Q9
+	for nmacia@linti.unlp.edu.ar; Wed, 19 Sep 2018 10:01:31 -0300
+Received: (qmail 20549 invoked from network); 19 Sep 2018 12:33:33 -0000
+Received: from [::ffff:185.15.20.32] ([::ffff:185.15.20.32]) by mail.sapo.pt
+ (Horde Framework) with HTTPS; Wed, 19 Sep 2018 13:33:33 +0100
+Date: Wed, 19 Sep 2018 13:33:33 +0100
+Message-ID: <20180919133333.Horde.saWiGEbAkIu_kk_-a_alpvX@mail.sapo.pt>
+From: katejs2@sapo.pt
+To: starcruise@starcruiserecruitment.com
+Subject: JOB OPPORTUNTY
+User-Agent: IMP PTMail 5.15.1
+X-Originating-IP: ::ffff:185.15.20.32
+X-PTMail-Version: PTMail 5.15.1
+X-PTMail-User: eyJpdiI6ImpSSVJHN3lSUXE1WXpIUHhTT2xOOUE9PSIsImQiOiJ2SE1YM3B2SExldVlVVkVidkQ2bWNna0plUzIxUXFWK1hMdXk4d2dwK2hFPSJ9
+Content-Type: multipart/mixed; boundary="=_scHXRc86Uu1on6vnBQo2ceD"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+This message is in MIME format.
+
+--=_scHXRc86Uu1on6vnBQo2ceD
+Content-Type: multipart/alternative; boundary="=_eikILbRHQ93ordHOQtfdiEI"
+Content-Transfer-Encoding: 8bit
+
+This message is in MIME format.
+
+--=_eikILbRHQ93ordHOQtfdiEI
+Content-Type: text/plain; charset=utf-8; format=flowed; DelSp=Yes
+Content-Description: Mensagem de Texto
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+S. C. l. Eine Einstellungsbenachrichtigung 2018. Mehr als 1.570  
+Bewerber benötigt in verschiedenen Positionen muss über 18 Jahre mit  
+internationalem Pass sein.
+
+Verantwortlich für die Bestimmung und Konzentration auf ein Team zur  
+Stärkung der Gesellschaft. Siehe Anhang für weitere Informationen und  
+Kontakt E-Mail-Adresse.
+
+--=_eikILbRHQ93ordHOQtfdiEI
+Content-Type: text/html; charset=utf-8
+Content-Description: Mensagem HTML
+Content-Disposition: inline
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+</head>
+<body style="font-family:Arial">
+<p><span style="tab-stops:104.25pt">S. C. l. Eine Einstellungsbenachrichtigung 2018. Mehr als 1.570 Bewerber ben&ouml;tigt in verschiedenen Positionen muss &uuml;ber 18 Jahre mit internationalem Pass sein.</span></p>
+<p><span style="tab-stops:104.25pt">Verantwortlich f&uuml;r die Bestimmung und Konzentration auf ein Team zur St&auml;rkung der Gesellschaft. Siehe Anhang f&uuml;r weitere Informationen und Kontakt E-Mail-Adresse.</span></p>
+</body>
+</html>
+--=_eikILbRHQ93ordHOQtfdiEI--
+
+--=_scHXRc86Uu1on6vnBQo2ceD--
+
